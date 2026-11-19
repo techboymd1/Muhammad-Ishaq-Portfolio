@@ -1,0 +1,9 @@
+MUHAMMAD ISHAQ — PORTFOLIO
+
+1. Extract this ZIP.
+2. Open the extracted folder in Visual Studio Code.
+3. Open index.html in your browser (or use Live Server in VS Code).
+4. Read README.md for the simple publishing steps.
+5. Before sharing the site, add your LinkedIn URL in assets/js/site-config.js.
+
+There is no npm install, build command, or database setup.
